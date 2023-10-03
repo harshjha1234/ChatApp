@@ -1,0 +1,13 @@
+.login__bg {
+    background-image: url(https://media.istockphoto.com/id/157533406/photo/close-up-view-of-computer-screen-on-website-login-page.jpg?s=1024x1024&w=is&k=20&c=c-TITvv8oJ1YCcTVdHLO4CIJrlyjDxU0vy6G5PtPuiA=);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(57, 142, 142);
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.login_bc{
+    background-color: #09e5f59c;
+}

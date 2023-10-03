@@ -1,0 +1,18 @@
+.home__bg {
+    background-image: url(https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80);
+    
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(204, 27, 30);
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+.temp_bg{
+    background-color: #1bd4da;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}

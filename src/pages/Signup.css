@@ -1,0 +1,38 @@
+.signup__bg {
+    background-image: url(https://media.istockphoto.com/id/984585540/vector/sign-up-form.jpg?s=612x612&w=0&k=20&c=owcBSBbKitWuykYq5t-qHavcMCF7U_J77rwiRKkmKXE=);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(149, 149, 56);
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.signup-profile-pic__container {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.signup-profile-pic {
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid rgb(176, 68, 68);
+    object-fit: cover;
+    height: 100px;
+}
+
+.add-picture-icon {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    color: green;
+    background: rgba(25, 85, 96, 0.427);
+    cursor: pointer;
+    z-index: 99;
+}
+
+.signup_bg_bc{
+    background-color: rgba(247, 5, 5, 0.295);
+}
